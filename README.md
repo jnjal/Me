@@ -18,8 +18,8 @@
 - Linux
 
 ## 📊 GitHub Stats
-![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnjal&show_icons=true)
 
 ## 💬 Contact Me
-- Telegram: @yourID  
+- Telegram: @cl-lot
 - Email: your.email@example.com
