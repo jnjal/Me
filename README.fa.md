@@ -29,7 +29,7 @@
 - **پروژه ۳:** توضیح + لینک  
 
 ## 📊 آمار گیت‌هاب
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=jnjal&show_icons=true&theme=transparent)
 
 ## 📫 راه‌های ارتباطی
 - ایمیل: your.email@example.com  
